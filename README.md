@@ -47,3 +47,37 @@ The dataset used here (`dataset/air_quality_dataset.csv`) is a sample generated 
 2. Train deep learning models
 3. Evaluate prediction accuracy
 4. Build pollution alert dashboard
+
+
+
+
+
+
+
+WEEK2
+
+
+# Deep Learning-Based Air Quality Prediction and Pollution Alert System
+
+## 📌 Project Overview
+This project aims to monitor and predict air quality using Machine Learning and Deep Learning models.  
+The system predicts **PM2.5 pollutant levels** and can generate pollution alerts based on predictions.  
+
+---
+
+## ✅ Week 1 Progress
+1. **Dataset Search** → Air Quality dataset added inside `dataset/`.  
+2. **Problem Statement Defined** → Predict and alert air pollution using ML/DL.  
+3. **Data Preparation** → Basic exploration and visualization done in `data_exploration.ipynb`.
+
+---
+
+## 🚀 Week 2 Progress
+4. **Model Selection** → Random Forest (baseline) and LSTM (Deep Learning for time-series).  
+5. **Model Implementation** → Implemented Random Forest and LSTM models in `model_training.ipynb`.  
+6. **Model Evaluation** → Compared using RMSE, MAE, R² and plotted Actual vs Predicted.  
+
+---
+
+## 📂 Repository Structure
+
