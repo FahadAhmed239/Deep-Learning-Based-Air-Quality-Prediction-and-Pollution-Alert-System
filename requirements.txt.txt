@@ -1,5 +1,10 @@
+
+```txt
 pandas
 numpy
 matplotlib
 seaborn
-jupyter
+scikit-learn
+tensorflow
+streamlit
+joblib
